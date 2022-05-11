@@ -18,6 +18,5 @@ public class MoodAnalyserMain {
 
         // Pass Sad message
         System.out.println(moodAnalyser.analyseMood("I am in Sad Mood"));
-
     }
     }
